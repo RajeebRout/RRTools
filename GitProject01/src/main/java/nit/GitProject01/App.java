@@ -10,8 +10,8 @@ public class App {
 	
     public static void main(String[] args) {
         App ap =new App();
-        System.out.println("Sum Result is : "+ap.sum(10, 20));
-        System.out.println("Sum Amount is : "+ap.sum(10, 20));
-
+        System.out.println("The Sum Result is : "+ap.sum(10, 20));
+        System.out.println("The Sum Amount is : "+ap.sum(10, 20));
+        	// TL changed
     }
 }
