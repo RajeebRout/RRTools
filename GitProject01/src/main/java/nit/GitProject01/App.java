@@ -9,7 +9,6 @@ public class App {
 	}
 	
     public static void main(String[] args) {
-        System.out.println("Hello World!");
         App ap =new App();
         System.out.println("Sum Result is : "+ap.sum(10, 20));
     }
