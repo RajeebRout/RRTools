@@ -33,6 +33,6 @@ public class NetBanking
 	
 	public void xyz()
 	{
-		
+		System.out.println("edew");
 	}
 }
