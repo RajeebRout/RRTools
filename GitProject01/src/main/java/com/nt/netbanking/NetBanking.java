@@ -18,4 +18,9 @@ public class NetBanking
 	{
 		return "Amount is Deposited in to  the Acc No :  "+accno;
 	}
+	
+	public String closeAccount()
+	{
+		return "Account is closed";
+	}
 }
