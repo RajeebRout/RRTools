@@ -30,4 +30,9 @@ public class NetBanking
 		System.out.println("Transferring "+amount+" from "+srcaccno+" to "+destaccno);
 		return null;
 	}
+	
+	public void abc()
+	{
+		System.out.println("edw");
+	}
 }
