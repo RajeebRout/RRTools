@@ -21,7 +21,7 @@ public class DateServlet extends HttpServlet{
 		PrintWriter pw = res.getWriter();  			// get PrintWriter
 		
 		Date d = new Date();
-		pw.print("<h1>Date and Time is :: "+d+"</h1>");
+		pw.print("<h1> This is => Date and Time is :: "+d+"</h1>");
 		
 		pw.println("<br><a href='index.jsp'>Home</a>");		// add home hyper link
 		
